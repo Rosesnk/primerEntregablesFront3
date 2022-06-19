@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/primerEntregablesFront3/static/css/main.7997deca.css",
+    "main.js": "/primerEntregablesFront3/static/js/main.a41d76ef.js",
+    "index.html": "/primerEntregablesFront3/index.html",
+    "main.7997deca.css.map": "/primerEntregablesFront3/static/css/main.7997deca.css.map",
+    "main.a41d76ef.js.map": "/primerEntregablesFront3/static/js/main.a41d76ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7997deca.css",
+    "static/js/main.a41d76ef.js"
+  ]
+}
